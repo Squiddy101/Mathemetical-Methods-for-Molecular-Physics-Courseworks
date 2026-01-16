@@ -49,7 +49,7 @@ The work focuses on analytical techniques commonly used in molecular physics, in
 
 - **LaTeX** – analytical derivations and final submissions  
 - **Python** – numerical integration, plotting, and verification  
-- **NumPy / Matplotlib** – numerical analysis and visualization  
+- **NumPy / Matplotlib** – numerical analysis and visualisation  
 
 ---
 
